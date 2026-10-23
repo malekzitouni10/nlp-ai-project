@@ -16,8 +16,8 @@ Generated on: 2/8/2026, 12:36:08 PM
 │   │   ├── 🐍 models.py
 │   │   └── 🐍 utils.py
 │   ├── 📁 uploads/
-│   │   ├── 📕 Essouiri Aya CV.pdf
-│   │   └── 📕 Essouiri_Aya_CV.pdf
+│   │   ├── 📕 Zitouni Malek CV.pdf
+│   │   └── 📕 Zitouni_Malek_CV.pdf
 │   ├── 📝 README.md
 │   └── 📄 requirements.txt
 ├── 📁 data/
