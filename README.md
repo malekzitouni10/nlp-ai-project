@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 Analyse Intelligente des CV – Projet IA (Recrutement)
 
 ## 📌 Description du projet
@@ -57,8 +58,3 @@ Le frontend fournit une interface web intuitive destinée aux recruteurs pour ex
 
 
 ### 👩‍💻 Malek Zitouni
-
-
-
-
-
